@@ -52,7 +52,7 @@ function generateRandomArray(length, minValue, maxValue) {
     if (targetIndex !== -1) {
       console.log(`Target Value found at index ${targetIndex}.`);
     } else {
-      console.log("Target Value not found in the array.");
+      console.log("Target Value not found in the arrayyyy.");
     }
   }
   
